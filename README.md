@@ -1,5 +1,5 @@
 # Folia-Expansion
-![GitHub Actions](https://img.shields.io/github/actions/workflow/status/Winds-Studio/Folia-Expansion/build.yml?style=flat-square)
+![GitHub Actions](https://img.shields.io/github/actions/workflow/status/TheUnrealZaka/Folia-Expansion/build.yml?style=flat-square)
 
 Add server health related placeholders for Folia.
 
