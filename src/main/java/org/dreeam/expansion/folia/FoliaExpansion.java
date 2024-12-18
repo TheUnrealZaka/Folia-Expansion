@@ -80,7 +80,7 @@ public class FoliaExpansion extends PlaceholderExpansion implements Cacheable, C
     @Override
     public Map<String, Object> getDefaults() {
         final Map<String, Object> defaults = new LinkedHashMap<>();
-        defaults.putIfAbsent("tps_color.high", "&a");
+        defaults.putIfAbsent("tps_color.high", "&8");
         defaults.putIfAbsent("tps_color.medium", "&e");
         defaults.putIfAbsent("tps_color.low", "&c");
         return defaults;
